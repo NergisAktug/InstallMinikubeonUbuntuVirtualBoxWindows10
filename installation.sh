@@ -2,6 +2,9 @@
 
 #2. download a ubuntu image
 
+sudo apt-get update -y
+sudo apt-get upgrade -y
+
 #3. install extension pack
 sudo apt-get install -y virtualbox virtualbox-ext-pack
 
